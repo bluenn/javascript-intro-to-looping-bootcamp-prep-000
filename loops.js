@@ -38,7 +38,9 @@ var i = 0;
     array.pop();
   }
   whilel(array.length > 0 && incrementVariable());
-  return array;
+
+}
+return array;
 }
 
 function incrementVariable() {
