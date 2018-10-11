@@ -39,7 +39,6 @@ var i = 0;
   }
   whilel(array.length > 0 && incrementVariable());
 
-}
 return array;
 }
 
