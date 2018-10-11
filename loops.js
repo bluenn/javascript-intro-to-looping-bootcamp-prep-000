@@ -24,7 +24,7 @@ function forLoop(array) {
      array.push(stringOther);
    }
  }
- return array;   
+ return array;
 
 }
 
