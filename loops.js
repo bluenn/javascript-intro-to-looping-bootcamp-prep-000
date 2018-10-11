@@ -39,7 +39,7 @@ function incrementVariable() {
 
   do {
     //array.pop();
-    incrementVariable();
+    //incrementVariable();
     array.pop();
   }
   whilel(array.length > 0 && incrementVariable());
