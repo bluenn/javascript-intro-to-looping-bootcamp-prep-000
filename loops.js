@@ -42,5 +42,5 @@ function incrementVariable() {
     incrementVariable();
     array.pop();
   }
-  while(array.length > 0 && incrementVariable())
+  whilel(array.length > 0 && incrementVariable());
 }
