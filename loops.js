@@ -44,4 +44,3 @@ function incrementVariable() {
 
 return array;
 }
-
