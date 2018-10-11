@@ -1,5 +1,8 @@
-while (number > 0) {
-console.log(number);
-number--;
-}
+
+function whileLoop(number) {
+  while (number > 0) {
+    console.log(number);
+    number--;
+  }
 return var string = “done”;
+}
