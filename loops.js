@@ -34,7 +34,7 @@ function doWhileLoop(array) {
 var i = 0;
 
   do {
-    
+
     array.pop();
   }
   whilel(array.length > 0 && incrementVariable());
@@ -44,4 +44,3 @@ var i = 0;
 function incrementVariable() {
   i = i + 1;
   }
-
