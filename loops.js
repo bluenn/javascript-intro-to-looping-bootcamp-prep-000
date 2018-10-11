@@ -29,7 +29,7 @@ function forLoop(array) {
  return array;
 }
 
-function doWhileLoop {
+function doWhileLoop(array) {
 
 var i = 0;
 
