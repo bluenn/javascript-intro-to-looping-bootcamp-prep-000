@@ -4,7 +4,7 @@ function whileLoop(n) {
     console.log(n);
     n--;
   }
-var string = “done”;
+var string = "done";
 return string;
 }
 
