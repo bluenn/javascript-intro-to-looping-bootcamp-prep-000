@@ -38,8 +38,9 @@ function incrementVariable() {
   }
 
   do {
-    array.pop();
+    //array.pop();
     incrementVariable();
+    array.pop();
   }
   while (array.length > 0 && incrementVariable())
 }
