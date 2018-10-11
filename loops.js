@@ -4,5 +4,6 @@ function whileLoop(number) {
     console.log(number);
     number--;
   }
-return var string = “done”;
+var string = “done”;
+return string;
 }
