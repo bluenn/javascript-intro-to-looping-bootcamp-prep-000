@@ -1,9 +1,9 @@
 
 function whileLoop(n) {
-var number = 10;
-  while (number > 0) {
-    console.log(--number);
-    number--;
+n = 10;
+  while (n > 0) {
+    console.log(n);
+    n--;
   }
 var string = “done”;
 return string;
