@@ -32,6 +32,9 @@ function forLoop(array) {
 function doWhileLoop(array) {
 
 var i = 0;
+function incrementVariable() {
+  i = i + 1;
+  }
 
   do {
 
@@ -42,6 +45,3 @@ var i = 0;
 return array;
 }
 
-function incrementVariable() {
-  i = i + 1;
-  }
