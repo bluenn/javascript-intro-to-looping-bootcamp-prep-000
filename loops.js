@@ -20,11 +20,11 @@ function forLoop(array) {
     if (i === 1) {
       array.push(string1);
     }
-   
+
    else {
      array.push(stringOther);
    }
-   
+
   }
   return array;
 }
