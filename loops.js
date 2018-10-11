@@ -33,14 +33,15 @@ function doWhileLoop(array) {
 
 var i = 0;
 
+  do {
+    
+    array.pop();
+  }
+  whilel(array.length > 0 && incrementVariable());
+  return array;
+}
+
 function incrementVariable() {
   i = i + 1;
   }
 
-  do {
-    //array.pop();
-    //incrementVariable();
-    array.pop();
-  }
-  whilel(array.length > 0 && incrementVariable());
-}
